@@ -24,7 +24,7 @@ const workExperiences = {
       date: "Mar 2023 – Present",
       descBullets: [
         "TechNova Hackathon, University of Waterloo.",
-        "Tech Stack: React, Sass."
+        "Tech Stack: React, Node.js, Sass."
       ],
       bgColor: "#fc6d83"
     },
