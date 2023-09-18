@@ -2,7 +2,7 @@
 date: '2022-11-10T11:50:54.000Z'
 title: 《我们生活在如此动荡的时代》
 tagline: 
-preview: 写于求职市场寒冬时期
+preview: 写于求职市场寒冬
 image: >-
   https://images.unsplash.com/photo-1695008079377-c2e4946ce594?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 ---
