@@ -18,7 +18,7 @@ I was placed in a team with four "self-identified" males, each of whom, regretta
 
 As anticipated, I took on the leadership role, adopting a somewhat autocratic style to ensure progress and maintain momentum. (I led all our group meetings and discussions, assigned work to them, and pushed them to meet the deadlines...)
 
-At the end of that term, while giving each other peer evaluatiokns, all of them praised me as a "born leader" (which is apparently not the truth), and I still remembered that at our final meeting, they joked around and said that, had it not been for my physical appearance and voice, they would not have been able to discern my gender based on my leadership style and manner of communication alone. In other words, the substance of my communication and actions did not conform to traditional notions of femininity.
+At the end of that term, while giving each other peer evaluations, all of them praised me as a "born leader" (which is apparently not the truth), and I still remembered that at our final meeting, they joked around and said that, had it not been for my physical appearance and voice, they would not have been able to discern my gender based on my leadership style and manner of communication alone. In other words, the substance of my communication and actions did not conform to traditional notions of femininity.
 
 他们的这最后一段评价引发了我的思考。
 
