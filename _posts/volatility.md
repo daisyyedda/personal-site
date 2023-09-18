@@ -4,7 +4,7 @@ title: 《我们生活在如此动荡的时代》
 tagline: 
 preview: 写于求职市场寒冬时期
 image: >-
-  https://images.unsplash.com/photo-1692326954113-d90dc3ad1637?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80
+  https://images.unsplash.com/photo-1695008079377-c2e4946ce594?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 ---
 
 人是最擅长于给自己编织意义之网的动物，
