@@ -1,9 +1,9 @@
 ---
 date: '2017-11-16T11:50:54.000Z'
 title: 写给15岁的自己
-tagline: 十五年 感谢支持与陪伴
+tagline: 执笔于2017年秋天。（幼时的我实在有点中二，别介意
 preview: >-
-  执笔于2017年秋天。（幼时的我实在有点中二，别介意
+  十五年 感谢支持与陪伴
   
 image: >-
   https://images.unsplash.com/photo-1695080087706-07bb3dbd5751?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=80
