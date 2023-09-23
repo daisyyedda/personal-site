@@ -6,7 +6,7 @@ preview: >-
   巨大的时代，小小的人生。
   
 image: >-
-  https://images.unsplash.com/photo-1695440055184-34f06d6e83fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80
+  https://images.unsplash.com/photo-1695440453823-f89a145dd911?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2235&q=80
 ---
 
 眨眼又过生日了，卡个点发一发🎂
