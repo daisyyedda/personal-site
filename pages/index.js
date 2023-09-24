@@ -9,6 +9,7 @@ import Cursor from "../components/Cursor";
 import WorkExperience from "../components/WorkCard/workExperience";
 import Button from "../components/Button";
 import Link from "next/link";
+import Profile from "../public/images/Profile Pic.jpg";
 
 // Local Data
 import data from "../data/portfolio.json";
@@ -22,6 +23,7 @@ export default function Home() {
   const textTwo = useRef();
   const textThree = useRef();
   const textFour = useRef();
+  const photo = useRef();
 
   // Handling SPA Scroll
   const handleWorkScroll = () => {
@@ -47,14 +49,26 @@ export default function Home() {
       behavior: "smooth",
     });
   };
+  
 
   useIsomorphicLayoutEffect(() => {
     stagger(
-      [textOne.current, textTwo.current, textThree.current, textFour.current],
+      [textOne.current, textTwo.current, textThree.current, textFour.current, photo.current],
       { y: 40, x: -10, transform: "scale(0.95) skew(10deg)" },
       { y: 0, x: 0, transform: "scale(1)" }
     );
   }, []);
+  
+  // Define the image style
+  const imageStyle = {
+    float: 'right', 
+    marginLeft: '10px', 
+    marginRight: '10%',
+    width: '300px',
+    height: '300px',
+    borderRadius: '50%'
+  };
+  
 
   return (
     <div className={`relative ${data.showCursor && "cursor-none"}`}>
@@ -74,6 +88,12 @@ export default function Home() {
         />
         <div className="laptop:mt-20 mt-10">
           <div className="mt-5">
+          <img 
+            ref={photo}
+            src="/images/Profile Pic.jpg" 
+            alt="Chun Ye Profile Pic" 
+            style={imageStyle} 
+          />
             <h1
               ref={textOne}
               className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-4/5 mob:w-full laptop:w-4/5"
@@ -101,6 +121,7 @@ export default function Home() {
           </div>
           <Socials className="mt-2 laptop:mt-5" />
         </div>
+        
 
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0">
           <h1 className="text-2xl text-bold">About.</h1>
@@ -113,17 +134,6 @@ export default function Home() {
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
           <h1 className="text-2xl text-bold">Experience.</h1>
           <WorkExperience />
-          {/* <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
-            {data.projects.map((project) => (
-              <WorkCard
-                key={project.id}
-                img={project.imageSrc}
-                name={project.title}
-                description={project.description}
-                onClick={() => window.open(project.url)}
-              />
-            ))}
-          </div> */}
           <br/>
         </div>  
 
