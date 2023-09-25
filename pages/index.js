@@ -1,4 +1,4 @@
-import { useRef } from "react";
+import { useRef, useState, useEffect } from "react";
 import Header from "../components/Header";
 import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
@@ -9,7 +9,6 @@ import Cursor from "../components/Cursor";
 import WorkExperience from "../components/WorkCard/workExperience";
 import Button from "../components/Button";
 import Link from "next/link";
-import Profile from "../public/images/Profile Pic.jpg";
 
 // Local Data
 import data from "../data/portfolio.json";
@@ -59,13 +58,31 @@ export default function Home() {
     );
   }, []);
   
+  const [windowWidth, setWindowWidth] = useState(0);
+
+  useEffect(() => {
+    // Update the state with the actual window width after mounting
+    setWindowWidth(window.innerWidth);
+
+    const handleResize = () => {
+      setWindowWidth(window.innerWidth);
+    };
+
+    window.addEventListener('resize', handleResize);
+
+    // Cleanup the event listener on component unmount
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
+
   // Define the image style
   const imageStyle = {
     float: 'right', 
     marginLeft: '10px', 
-    marginRight: '10%',
-    width: '300px',
-    height: '300px',
+    marginRight: (windowWidth >= 768 && windowWidth <= 1023) ? '1%' : '10%',
+    width: (windowWidth >= 768 && windowWidth <= 1023) ? '200px' : '300px',
+    height: (windowWidth >= 768 && windowWidth <= 1023) ? '200px' : '300px',
     borderRadius: '50%'
   };
   
@@ -90,7 +107,7 @@ export default function Home() {
           <div className="mt-5">
           <img 
             ref={photo}
-            src="/images/Profile Pic.jpg" 
+            src={"/images/Profile Pic.jpg" }
             alt="Chun Ye Profile Pic" 
             style={imageStyle} 
           />
