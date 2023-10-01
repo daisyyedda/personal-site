@@ -108,7 +108,7 @@ export default function Home() {
           <img 
             ref={photo}
             src={"/images/Profile Pic.jpg" }
-            alt="Chun Ye Profile Pic" 
+            alt="Daisy Ye Profile Pic" 
             style={imageStyle} 
           />
             <h1
@@ -189,7 +189,7 @@ export default function Home() {
       <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
         Made With ❤ by{" "}
         <Link href="https://www.chun-ye.ca/">
-          <a className="underline underline-offset-1">Chun Ye</a>
+          <a className="underline underline-offset-1">Daisy Ye</a>
         </Link>
       </h1>
     </>
