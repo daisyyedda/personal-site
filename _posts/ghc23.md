@@ -1,0 +1,70 @@
+---
+date: '2023-10-03T11:50:54.000Z'
+title: 2023 GHC，我也有想说的
+tagline: 
+preview: 写点心得，这样也算是没白去。
+image: >-
+  https://images.unsplash.com/photo-1695440874833-f0d76eec63c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2274&q=80
+---
+
+
+# 个人背景
+
+在我大一下学期的必修商科课中，我们有一个跨越整个学期的商赛项目。该项目旨在让我们运用在大一学到的金融、会计、市场营销和人力资源知识来模拟创业过程。
+&nbsp;  
+&nbsp;  
+I was placed in a team with four "self-identified" males, each of whom, regrettably, demonstrated a lack of work ethic. Typically, I would not volunteer to be the leader in group projects. I would only do so when no one else in the group is willing or is capable of steering the team to success.
+&nbsp;  
+&nbsp;  
+As anticipated, I took on the leadership role, adopting a somewhat autocratic style to ensure progress and maintain momentum. (I led all our group meetings and discussions, assigned work to them, and pushed them to meet the deadlines...)
+&nbsp;  
+&nbsp;  
+At the end of that term, while giving each other peer evaluations, all of them praised me as a "born leader" (which is apparently not the truth), and I still remembered that at our final meeting, they joked around and said that, had it not been for my physical appearance and voice, they would not have been able to discern my gender based on my leadership style and manner of communication alone. In other words, the substance of my communication and actions did not conform to traditional notions of femininity.
+&nbsp;  
+&nbsp;  
+他们的这最后一段评价引发了我的思考。
+&nbsp;  
+&nbsp;  
+
+---
+# 四天的日程
+于是乎，记忆把我带回了初中时代。我想起了我当时最喜欢的民国时期的人物向警予，她最受人称赞的品质是“巾帼气概”。我还想起了我曾参与的话剧表演，其中很多时候我都是扮演男性角色。当我扮演男性时，我并不觉得言语表达有任何不适，相反，我觉得非常自在。
+&nbsp;  
+&nbsp;  
+这引发了我对性别流动性的思考。
+&nbsp;  
+&nbsp;  
+
+---
+# 给2024 attendee的建议
+说了那么多铺垫，终于扣题了。
+&nbsp;  
+&nbsp;  
+首先，我回顾了自己曾经做过的事情，表达过的观点和阐明过的立场（都是我认为正确或得到社会认可的）。其次，我在脑海里整理了一些伟人事迹，亦或是我身边人的一些令我敬佩的行为。我发现，大多数时候，这些行为本身并没有性别倾向。
+&nbsp;  
+&nbsp;  
+我进一步认识到，其中相当一部分行为实际上是“反性别倾向”的。这里的“反性别倾向”指的是：根据对性别的世俗定义和刻板印象，超过50%的人会倾向于将这种行为归类为与个体出生性别不一致的性别。
+&nbsp;  
+&nbsp;  
+
+---
+# 最后
+思忖完社会层面的东西，难免又是要把想法缩小，回归到自己本身的。
+&nbsp;  
+&nbsp;  
+省去连篇累牍的内心独白，我的结论可以归纳为以下几点：
+&nbsp;  
+&nbsp;  
+- 从生物学的角度出发：我的生物性别是女性。
+&nbsp;  
+&nbsp;  
+- 从社会身份的角度出发：我在填写性别时会选择“女性”，而人们也会用“她/she/her/hers”来称呼我。
+&nbsp;  
+&nbsp;    
+- 从社会行为学的角度出发：我不会让自己的行为受到性别的限制。不论是出于社会责任感还是自我意愿的所为，如果按照言语和行为的本身来判定性别的话，那我会把自己的性别视为流动的。
+&nbsp;  
+&nbsp;    
+- 从自我成长的角度出发：在进行深度的自我反思和人生规划时，我同样的，不会让性别成为一个需要考虑的因素，更不会让它成为一个障碍。
+&nbsp;  
+&nbsp;  
+
