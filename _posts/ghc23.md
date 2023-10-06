@@ -35,18 +35,23 @@ image: >-
 1. 光自信是没用的，因为大家都很自信。要有的是“我比其他29999人都更优秀，我的履历和该岗位非常compatible，所以你必须hire我”的气势。
 &nbsp;  
 &nbsp;  
+
 2. 自我介绍不要太长，只需要精简且说的足够流利。如果觉得自己英语不好的话就赶快去练英语。you create the impression that people would have on you
 &nbsp;  
 &nbsp;  
+
 3. 刚上来和recruiter/engineer聊的时候切勿bombard them with information（别一股脑的把自己的履历都抖出来），而是make it a conversation。我个人的建议是可以先问问他们用什么tech stack，然后告诉他们你很擅长用这些，因为你之前实习的时候用过（这个时候可以refer to你简历的certain section）。
 &nbsp;  
 &nbsp;  
+
 4. 如果你不介意多点面试机会练习的话，可以去聊聊不提供sponsorship的公司。竞争会小很多。我这次就拿到了两个interview。虽然他们都不sponsor，但我至少获得了锻炼自己的机会。
 &nbsp;  
 &nbsp;  
+  
 5. 刷LeetCode旨不在数量而在质量。如果Blind 75的每一道你都可以立刻写出来且搞清楚解题的底层逻辑，那也挺足够的。
 &nbsp;  
 &nbsp;  
+ 
 
 ---
 # 最后
