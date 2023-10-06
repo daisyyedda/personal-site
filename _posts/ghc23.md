@@ -40,7 +40,7 @@ image: >-
 &nbsp;  
 &nbsp;  
 
-3. 刚上来和recruiter/engineer聊的时候切勿bombard them with information（别一股脑的把自己的履历都抖出来），而是make it a conversation。我个人的建议是可以先问问他们用什么tech stack，然后告诉他们你很擅长用这些，因为你之前实习的时候用过（这个时候可以refer to你简历的certain section）。
+3. 刚上来和recruiter/engineer聊的时候切勿bombard them with information（别一股脑的把自己的履历都抖出来），而是make it a conversation。我个人的建议是可以先问问他们用什么tech stack，然后告诉他们你很擅长用这些，因为你之前实习时用过（这个时候可以refer to你简历的certain section）。
 &nbsp;  
 &nbsp;  
 
