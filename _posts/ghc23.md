@@ -19,16 +19,16 @@ image: >-
 # 四天的日程
 第一天会场4:30pm开，我1pm就去排队。
 &nbsp;  
-&nbsp; 
+&nbsp;  
 第二天9am开，我8am到，没排到apple。
 &nbsp;  
-&nbsp; 
+&nbsp;  
 第三天9am开，我7am到，依旧没排到apple。
 &nbsp;  
-&nbsp; 
+&nbsp;  
 第四天我战略性放弃了，只去了11:30am的面试。
 &nbsp;  
-&nbsp;  
+&nbsp;   
 
 ---
 # 给2024 attendee的建议
