@@ -1,4 +1,4 @@
-![image](https://github.com/daisyyedda/personal-site/assets/65566095/2391148a-1891-446c-af81-08c9435e91f3)---
+---
 date: '2023-08-18T01:30:49.873Z'
 title: Ball Pen Sketch Compilation
 tagline: Mostly done during my past co-op (Jan - Apr 2023).
