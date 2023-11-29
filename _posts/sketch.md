@@ -1,12 +1,13 @@
 ---
 date: '2023-08-18T01:30:49.873Z'
 title: Ball Pen Sketch Compilation
-tagline: Mostly done during my past co-op (Jan - Apr 2023).
-preview: Mostly done during my past co-op (Jan - Apr 2023).
+tagline: 普通的人和普通的画。
+preview: 普通的人和普通的画。
 image: >-
   https://images.unsplash.com/photo-1701217261780-f5863064fa15?q=80&w=2535&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
-## 被割疼的心（WIP）
+## 被割疼的心（赶工ing）
+##### Please... please, embrace my bleeding heart, just as the dark sky embraces all those shining stars.
 ##### 2023 - 11 - 27
 
 ---
