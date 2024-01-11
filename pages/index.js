@@ -153,7 +153,7 @@ export default function Home() {
           <WorkExperience />
           <br/>
         </div>  
-
+        
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={projectRef}>
           <h1 className="text-2xl text-bold">Projects.</h1>
           <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
