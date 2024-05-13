@@ -7,6 +7,7 @@ import { stagger } from "../animations";
 import Head from "next/head";
 import Cursor from "../components/Cursor";
 import WorkExperience from "../components/WorkCard/workExperience";
+import ResearchExperience from "../components/WorkCard/researchExperience";
 import Button from "../components/Button";
 import Link from "next/link";
 
@@ -16,7 +17,7 @@ import data from "../data/portfolio.json";
 export default function Home() {
   // Ref
   const workRef = useRef();
-  const projectRef = useRef();
+  const researchRef = useRef();
   const contactRef = useRef();
   const textOne = useRef();
   const textTwo = useRef();
@@ -33,9 +34,9 @@ export default function Home() {
     });
   };
 
-  const handleProjectScroll = () => {
+  const handleResearchScroll = () => {
     window.scrollTo({
-      top: projectRef.current.offsetTop,
+      top: researchRef.current.offsetTop,
       left: 0,
       behavior: "smooth",
     });
@@ -100,7 +101,7 @@ export default function Home() {
       <div className="container mx-auto mb-10">
         <Header
           handleWorkScroll={handleWorkScroll}
-          handleProjectScroll={handleProjectScroll}
+          handleResearchScroll={handleResearchScroll}
           handleContactScroll={handleContactScroll}
         />
         <div className="laptop:mt-20 mt-10">
@@ -149,12 +150,17 @@ export default function Home() {
         </div>
    
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-          <h1 className="text-2xl text-bold">Experience.</h1>
+          <h1 className="text-2xl text-bold">Work Experience.</h1>
           <WorkExperience />
           <br/>
         </div>  
+      
+        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={researchRef}>
+          <h1 className="text-2xl text-bold">Research Experience.</h1>
+          <ResearchExperience />
+        </div>
         
-        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={projectRef}>
+        {/* <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={projectRef}>
           <h1 className="text-2xl text-bold">Projects.</h1>
           <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
             {data.services.map((service, index) => (
@@ -167,7 +173,7 @@ export default function Home() {
               />
             ))}
           </div>
-        </div>
+        </div> */}
     <>
       <div className="mt-5 laptop:mt-40 p-2 laptop:p-0" ref={contactRef}>
         <div>

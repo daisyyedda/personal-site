@@ -1,11 +1,21 @@
 import React, { useContext, useState, useEffect } from "react";
 import ExperienceCard from "./ExperienceCard";
 import { Fade } from "react-reveal";
-import StyleContext from "./StyleContext";
 
 const workExperiences = {
   display: true, 
   experience: [
+    {
+      role: "Software Engineer",
+      company: "Salesforce",
+      companylogo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJ3B5qBw8dAVsOsQer2hiB3JA-7U6LY8eE6xg6ahgM9zfQ0xQQ6zbyOdru421SvF0gKE&usqp=CAU',
+      date: "Jun 2024 – Aug 2024",
+      descBullets: [
+        "💭 Falcon Platform Service",
+        "Tech Stack: AWS, GCP, Golang, Cloud Services, Network Security."
+      ],
+      bgColor: "#179cd7"
+    },
     {
       role: "Software Engineer",
       company: "CPP Investments",

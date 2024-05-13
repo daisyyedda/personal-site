@@ -5,7 +5,7 @@ import React, { useEffect, useState } from "react";
 import Button from "../Button";
 import data from "../../data/portfolio.json";
 
-const Header = ({ handleWorkScroll, handleProjectScroll, handleContactScroll, isBlog }) => {
+const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, isBlog }) => {
   const router = useRouter();
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
@@ -65,8 +65,8 @@ const Header = ({ handleWorkScroll, handleProjectScroll, handleContactScroll, is
             >
               {!isBlog ? (
                 <div className="grid grid-cols-1">
-                  <Button onClick={handleWorkScroll}>Experience</Button>
-                  <Button onClick={handleProjectScroll}>Projects</Button>
+                  <Button onClick={handleWorkScroll}>Work</Button>
+                  <Button onClick={handleResearchScroll}>Research</Button>
                   {showBlog && (
                     <Button onClick={() => router.push("/blog")}>Pieces</Button>
                   )}
@@ -125,8 +125,8 @@ const Header = ({ handleWorkScroll, handleProjectScroll, handleContactScroll, is
         </h1>
         {!isBlog ? (
           <div className="flex">
-            <Button onClick={handleWorkScroll}>Experience</Button>
-            <Button onClick={handleProjectScroll}>Projects</Button>
+            <Button onClick={handleWorkScroll}>Work</Button>
+            <Button onClick={handleResearchScroll}>Research</Button>
             {showBlog && (
               <Button onClick={() => router.push("/blog")}>Pieces</Button>
             )}
