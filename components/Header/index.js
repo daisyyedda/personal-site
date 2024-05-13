@@ -72,7 +72,7 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => window.open("https://pdfhost.io/v/.j30X6vmNI_Daisy_Ye_Resume_2024")}
+                      onClick={() => window.open("https://pdfhost.io/v/9beVJRn9B_Daisy_Ye_Resume")}
                     >
                       Resume
                     </Button>
@@ -94,7 +94,7 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => window.open("https://pdfhost.io/v/.j30X6vmNI_Daisy_Ye_Resume_2024")}
+                      onClick={() => window.open("https://pdfhost.io/v/9beVJRn9B_Daisy_Ye_Resume")}
                       classes="first:ml-1"
                     >
                       Resume
@@ -132,7 +132,7 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
             )}
             {showResume && (
               <Button
-                onClick={() => window.open("https://pdfhost.io/v/.j30X6vmNI_Daisy_Ye_Resume_2024")}
+                onClick={() => window.open("https://pdfhost.io/v/9beVJRn9B_Daisy_Ye_Resume")}
                 classes="first:ml-1"
               >
                 Resume
@@ -161,7 +161,7 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
             )}
             {showResume && (
               <Button
-                onClick={() => window.open("https://pdfhost.io/v/.j30X6vmNI_Daisy_Ye_Resume_2024")}
+                onClick={() => window.open("https://pdfhost.io/v/9beVJRn9B_Daisy_Ye_Resume")}
                 classes="first:ml-1"
               >
                 Resume
