@@ -32,11 +32,11 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
               <div className="flex items-center">
               {mounted && theme && data.darkMode && (
                 <Button
-                  onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+                  onClick={() => setTheme(theme === "light" ? "dark" : "light")}
                 >
                   <img
                     className="h-6"
-                    src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
+                    src={`/images/${theme === "light" ? "sun.svg" : "moon.svg"}`}
                   ></img>
                 </Button>
               )}
@@ -60,7 +60,7 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
             </div>
             <Popover.Panel
               className={`absolute right-0 z-10 w-11/12 p-4 ${
-                theme === "dark" ? "bg-slate-800" : "bg-white"
+                theme === "dark" ? "hover:bg-slate-800" : "hover:bg-slate-50"
               } shadow-md rounded-md`}
             >
               {!isBlog ? (

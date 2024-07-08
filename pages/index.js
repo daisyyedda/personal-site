@@ -4,6 +4,7 @@ import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
 import { useIsomorphicLayoutEffect } from "../utils";
 import { stagger } from "../animations";
+import { useTheme } from "next-themes";
 import Head from "next/head";
 import Cursor from "../components/Cursor";
 import WorkExperience from "../components/WorkCard/workExperience";
@@ -24,6 +25,7 @@ export default function Home() {
   const textThree = useRef();
   const textFour = useRef();
   const photo = useRef();
+  const { theme, setTheme } = useTheme();
 
   // Handling SPA Scroll
   const handleWorkScroll = () => {
@@ -150,7 +152,7 @@ export default function Home() {
         </div>
    
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-          <h1 className="text-2xl text-bold">Work Experience.</h1>
+          <h1 className="text-2xl text-bold ">Work Experience.</h1>
           <WorkExperience />
           <br/>
         </div>  
