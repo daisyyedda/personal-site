@@ -9,7 +9,6 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
   const router = useRouter();
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
-
   const { name, showBlog, showResume } = data;
 
   useEffect(() => {
@@ -32,11 +31,11 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
               <div className="flex items-center">
               {mounted && theme && data.darkMode && (
                 <Button
-                  onClick={() => setTheme(theme === "light" ? "dark" : "light")}
+                  onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
                 >
                   <img
                     className="h-6"
-                    src={`/images/${theme === "light" ? "sun.svg" : "moon.svg"}`}
+                    src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
                   ></img>
                 </Button>
               )}
@@ -60,7 +59,7 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
             </div>
             <Popover.Panel
               className={`absolute right-0 z-10 w-11/12 p-4 ${
-                theme === "dark" ? "hover:bg-slate-800" : "hover:bg-slate-50"
+                theme === "dark" ? "bg-slate-800" : "bg-white"
               } shadow-md rounded-md`}
             >
               {!isBlog ? (
@@ -113,9 +112,9 @@ const Header = ({ handleWorkScroll, handleResearchScroll, handleContactScroll, i
         )}
       </Popover>
       <div
-        className={`mt-10 hidden flex-row items-center justify-between sticky ${
-          theme === "light" && "bg-white"
-        } dark:text-white top-0 z-10 tablet:flex`}
+      className={`mt-10 hidden flex-row items-center justify-between sticky ${
+        theme === "light" && "bg-white"
+      } dark:text-white top-0 z-10 tablet:flex`}
       >
         <h1
           onClick={() => router.push("/")}
