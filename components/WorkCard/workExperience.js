@@ -12,7 +12,7 @@ const workExperiences = {
       date: "Jun 2024 – Aug 2024",
       descBullets: [
         "💭 Falcon Platform Service",
-        "Tech Stack: AWS, GCP, Golang, Cloud Services, Network Security."
+        "Tech Stack: AWS, Golang, Python, Splunk, InfluxDB, L7 WAF, Cloud Services, Network Security."
       ],
       bgColor: "#179cd7"
     },
