@@ -1,11 +1,19 @@
 ---
-date: '2023-08-18T01:30:49.873Z'
+date: '2024-08-02T01:30:49.000Z'
 title: Ball Pen Sketch Compilation
 tagline: 普通的人和普通的画。
 preview: 普通的人和普通的画。
 image: >-
   https://images.unsplash.com/photo-1701217261780-f5863064fa15?q=80&w=2535&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
+## Poquito A Poquito
+##### Love is a blessing and a curse.
+##### 2024 - 08- 01
+
+![Poquito](https://images.unsplash.com/photo-1727564504148-44162242e351?q=80&w=2235&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+---
+
 ## 给我最爱的人
 ##### 在母亲节到来的前一天画给妈妈。
 ##### 2024 - 05 - 10
